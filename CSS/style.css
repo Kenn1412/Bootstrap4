@@ -38,3 +38,7 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.reserveTable {
+    padding-bottom: 2rem;
+}
